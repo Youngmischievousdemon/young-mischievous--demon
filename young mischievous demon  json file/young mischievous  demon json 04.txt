@@ -1,0 +1,40 @@
+{
+  "description": "A YOUNG MISCHIEVOUS DEMON PLAYING AROUND BUT HIDING THE FEELING OF LINELINESS.IT IS COLLECTIONS OF YOUNG MISCHIEVOUS DEMON ?.", 
+  "external_url": "https://opensea.io/collection/young-mischievous-demon-3", 
+  "image":ipfs/QmSkE723gSNfXfb7hoDgNvR9hys5uJ94Fsk7xJ2tvHXgSc/young%20mischievous%20demon%20%284%29.jpg ", 
+
+  "name": "young mischievous demon", 
+}
+
+{
+"attributes": [
+    {
+      "trait_type": "BACKGROUND", ?
+      "value": "WHITE"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "ETHREAL EYES"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "SMILE"
+    }, 
+    {
+      
+      "trait_type": "HAIR", 
+      "trait_type": "GACHA", 
+      
+    }, 
+    {
+      "trait_type": "HORN", 
+      "trait_type": "black", 
+      
+    }, 
+    {
+      "trait_type": "DRESS", 
+      "trait_type": "LIGHT PURPLE", 
+      
+    }
+  ]
+}
